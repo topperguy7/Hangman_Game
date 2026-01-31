@@ -22,3 +22,9 @@ Frontend: HTML5, CSS3
 Logic: JavaScript (Vanilla)
 Concepts Used: Arrays, timeout, conditionals, DOM
 
+🚀 How It Works
+----------------------------------------------------------------------------------------------------------------------------------------------------
+1.A set of words is shown on the screen for a limited time.
+2.The words disappear after the memorization phase.
+3.The Hangman game begins using only those words.
+4.Guess the correct letters before running out of attempts.

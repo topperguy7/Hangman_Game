@@ -10,17 +10,17 @@ Unlike traditional Hangman, this version adds a memorization challenge, making t
 
 ✨ Features
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-📝   Memorization Phase – Words are displayed briefly for the player to remember.
-🎮   Hangman Challenge – Guess only the memorized words letter by letter.
-❌   Limited Attempts – Classic Hangman rules apply.
-🔁   Replay Option – Restart and try again.
-🎯   Beginner Friendly – Simple logic and clean UI.
+📝**Memorization Phase –** Words are displayed briefly for the player to remember.
+🎮**Hangman Challenge –** Guess only the memorized words letter by letter.
+❌**Limited Attempts –** Classic Hangman rules apply.
+🔁**Replay Option –** Restart and try again.
+🎯**Beginner Friendly –** Simple logic and clean UI.
 
 ⚙️ Tech Stack.
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-•  Frontend:HTML5, CSS3.
-•  Logic: JavaScript (Vanilla).
-•  Concepts Used: Arrays, timeout, conditionals, DOM.
+**Frontend:** HTML5, CSS3.
+**Logic:** JavaScript (Vanilla).
+**Concepts Used:** Arrays, timeout, conditionals, DOM.
 
 🚀 How It Works
 ----------------------------------------------------------------------------------------------------------------------------------------------------

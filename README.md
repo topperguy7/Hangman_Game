@@ -28,3 +28,7 @@ Unlike traditional Hangman, this version adds a memorization challenge, making t
 2.  The words disappear after the memorization phase.
 3.  The Hangman game begins using only those words.
 4.  Guess the correct letters before running out of attempts.
+
+Output
+----------------------------------------------------------------------------------------------------------------------------------------------------
+Click on this link to play the Game => https://topperguy7.github.io/Hangman_Game/

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hangman | Memory Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>🧠 Hangman Memory Game</h1>
+    <hr style="margin-top: -15px; margin-bottom:40px">
+    <!-- Revision Phase -->
+    <h2 id="timerText"></h2>
+    <p id="revision"></p>
+
+    <!-- Game Phase -->
+    <p id="word"></p>
+    <p>Wrong guesses: <span id="wrong"></span></p>
+    <div id="letters"></div>
+    <p id="message"></p>
+
+    <button onclick="restartGame()">Restart Game</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
